@@ -7,3 +7,4 @@ export EDITOR="$VISUAL"
 export TERM=screen-256color
 shopt -s extglob
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+stty -ixon
