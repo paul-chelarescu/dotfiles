@@ -6,7 +6,7 @@
   - Sensible tab usage (spaces as indent, expand to 4, continue indent)
   - Mouse usage inside tmux
   - Undo directory (which needs to be created beforehand)
-  - Use both system clipboards (`+` and `*`) to copy and paste from `+`
+  - Use both system clipboards (`+` and `*`) to copy into; paste happens from `+`
 - Sensible Tmux bindings
   - Colored Tmux for Vim
   - Short `escape-time` for the Escape key in Vim
