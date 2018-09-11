@@ -1,5 +1,7 @@
 colorscheme gruvbox
 filetype plugin indent on "python indent
+syntax on
+set nocompatible
 set background=dark
 set nu
 set breakindent
@@ -16,4 +18,5 @@ set splitright
 set splitbelow
 autocmd VimResized * wincmd = "autoresize splits on windows resize
 set ttymouse=xterm2 "resize splits with mouse in tmux
-set clipboard=unnamedplus "use system clipboard
+set clipboard=unnamed "use system clipboard
+set laststatus=2
