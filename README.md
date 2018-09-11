@@ -25,4 +25,4 @@
   - Alias the `config` command to keep track of these dotfiles (https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
 
 #### Requirements:
-xclip and vim +clipboard +xterm_clipboard
+xclip and vim +clipboard +xterm_clipboard, ssh with -X option
