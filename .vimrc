@@ -18,5 +18,5 @@ set splitright
 set splitbelow
 autocmd VimResized * wincmd = "autoresize splits on windows resize
 set ttymouse=xterm2 "resize splits with mouse in tmux
-set clipboard=unnamed "use system clipboard
+set clipboard=unnamed,unnamedplus "use both system clipboards
 set laststatus=2
