@@ -1,5 +1,8 @@
 ## This is my own repository containing dotfiles configured to my preferences.
 
+#### Requirements:
+xclip and vim +clipboard +xterm_clipboard
+
 ### Main settings:
 - Minimalistic vimrc settings that work with Vim 8
   - A snapshot of the gruvbox colorscheme from https://github.com/morhetz/gruvbox
