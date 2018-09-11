@@ -1,8 +1,5 @@
 ## This is my own repository containing dotfiles configured to my preferences.
 
-#### Requirements:
-xclip and vim +clipboard +xterm_clipboard
-
 ### Main settings:
 - Minimalistic vimrc settings that work with Vim 8
   - A snapshot of the gruvbox colorscheme from https://github.com/morhetz/gruvbox
@@ -26,3 +23,6 @@ xclip and vim +clipboard +xterm_clipboard
   - Enable globbing
   - Remove keyboard shortcuts which freeze the terminal
   - Alias the `config` command to keep track of these dotfiles (https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
+
+#### Requirements:
+xclip and vim +clipboard +xterm_clipboard
