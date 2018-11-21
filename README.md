@@ -16,6 +16,7 @@
   - Copy into xclip and use both `PRIMARY` and `CLIPBOARD` clipboards
 - Useful git aliases
   - `graph` the history of the branch with color
+  - `grep-branch` for searching text across all branches (https://stackoverflow.com/a/41898410)
   - Use diff-so-fancy for clearer diffs (https://github.com/so-fancy/diff-so-fancy)
 - Minimalist bash prompt
   - PS1 contains the exact time with seconds, has 2 lines and is colored
