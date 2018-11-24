@@ -13,6 +13,7 @@
   - Mouse support
   - Move panes around the window (inspired from https://superuser.com/a/707083)
   - Sensible mouse highlight to copy
+  - Scrolling with mouse and presssing C-d doesn't exit the shell
   - Copy into xclip and use both `PRIMARY` and `CLIPBOARD` clipboards
 - Useful git aliases
   - `graph` the history of the branch with color
