@@ -14,6 +14,7 @@
   - Move panes around the window (inspired from https://superuser.com/a/707083)
   - Sensible mouse highlight to copy
   - Scrolling with mouse and presssing C-d doesn't exit the shell
+  - Middle click to paste from the clipboard (https://gist.github.com/rodricels/7951c3bd505d343b07309b76188af9b3)
   - Copy into xclip and use both `PRIMARY` and `CLIPBOARD` clipboards
 - Useful git aliases
   - `graph` the history of the branch with color
