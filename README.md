@@ -16,7 +16,7 @@
   - Scrolling with mouse and presssing C-d doesn't exit the shell
   - Middle click to paste from the clipboard (https://gist.github.com/rodricels/7951c3bd505d343b07309b76188af9b3)
   - Copy into xclip and use both `PRIMARY` and `CLIPBOARD` clipboards
-  - Status bar is black and white
+  - Status bar is black and white, drag tabs to reorder
 - Useful git aliases
   - `graph` the history of the branch with color
   - `grep-branch` for searching text across all branches (https://stackoverflow.com/a/41898410)
